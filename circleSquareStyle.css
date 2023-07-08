@@ -1,0 +1,37 @@
+.outer-square{
+    width: 600px;
+    height: 600px;
+
+   
+}
+.box{
+    height: 193.33px;
+    width: 193.33px;
+
+    background-color: green;
+    
+
+}
+.circle{
+    height: 193.33px;
+    width: 193.33px;
+    
+    border-radius: 50%; 
+    background-color: blue;  
+}
+
+.part-1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.part-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.part-3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
